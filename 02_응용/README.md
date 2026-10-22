@@ -25,3 +25,5 @@ python tools/check.py --exercise 08 --level applied
 python tools/check_git.py --project "ex07_project/02_응용/day4_eda" --level applied
 ```
 run은 본인 프로젝트를 읽기만 합니다. check는 작성한 검증함수를 테스트하며, 본인 Git 활동·보고서 품질의 최종 승인을 뜻하지 않습니다. 제출경로는 강사가 현장에서 안내합니다.
+
+testie
